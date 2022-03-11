@@ -25,7 +25,7 @@
 # Como-usar
 <h1>
     <p> GIF de como usar </p>
-    <img alt="calculadora-de-medias-basica" title="Calculadora Básica de Médias" src="./github/Peek 10-03-2022 16-47.gif ">
+    <img alt="calculadora-de-medias-basica" title="Calculadora Básica de Médias" src="./github/Peek 11-03-2022 16-34.gif ">
 </h1>
 
 <p>- A calculadora é muito simples de ser utilizada. </p>
